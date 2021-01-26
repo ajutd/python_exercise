@@ -1,3 +1,9 @@
+#enter k number for k x k matrix and display the matrix such as 5 x 5 matrix
+# [0 1 0 1 0]
+# [2 0 2 0 2]
+# [0 3 0 3 0]
+# [4 0 4 0 4]
+# [0 5 0 5 0]
 k = int(input("Enter k number: "))
 a = list()
 for i in range(k*k):
